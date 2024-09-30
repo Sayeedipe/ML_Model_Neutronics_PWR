@@ -1,4 +1,4 @@
-                                                          Machine-Learning Model for Neutronic Analyses of 17X17 Pressurized Water Reactor Fuel Assemblies
+  Machine-Learning Model for Neutronic Analyses of 17X17 Pressurized Water Reactor Fuel Assemblies
 
 
 Three machine-learning (ML) models were developed for predicting two important neutronic parameters, neutron multiplication factor (K∞) and void coefficient (αv), of 17×17 pressurized water reactor (PWR) fuel assemblies.
